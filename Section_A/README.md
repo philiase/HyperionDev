@@ -20,14 +20,15 @@ ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 this is the first error i came across
-![indentation_error](imgs/1st_error.png)
+
+![indentation_error](img/1st_error.png)
 This is a common error in Python and can be frustrating. I recommend that you use an integrated development environment (IDE) that automatically inserts the correct amount of indentation and highlights any indentation errors, such as:
 - Visual Studio Code
 - PyCharm
 - Sublime Text
 - Atom
 - IDLE (included with Python)
-![indentation_fixed](imgs/Indentation_fixed.png)
+[indentation_fixed](img/Indentation_fixed.png)
 Or you can take your cursor to the end of the function code right after the `colons(:)` and hit enter. It will show you where you're supposed to start your code.
 
 So I fixed the indentation error and ran it again, and that's when I saw the real issue. This is what I got from running your code:
