@@ -30,7 +30,7 @@ This is a common error in Python and can be frustrating. I recommend that you us
 - Sublime Text
 - Atom
 - IDLE (included with Python).
-- 
+
 ![indentation_fixed](img/Indentation_fixed.png)
 
 Or you can take your cursor to the end of the function code right after the `colons(:)` and hit enter. It will show you where you're supposed to start your code.
