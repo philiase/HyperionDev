@@ -82,7 +82,7 @@ for interest sake allow me to explain
 
 Here is what each line of the code does:
 
--` anagram_groups` = []: Creates an empty list to store anagram groups.
+- `anagram_groups` = [ ]: Creates an empty list to store anagram groups.
 - `i = 0`: Initializes a loop index to 0.
 - `while i < len(strs):`: Begins a loop that will continue until the end of the input list is reached.
 - `word = strs[i]:` Selects the current word for comparison.
