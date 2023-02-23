@@ -1,7 +1,7 @@
 # HyperionDev
 
 ### About Me
-Hi there! My name is Lebuso Tsilo and I'm a Dev with a passion for helping students learn and grow. I have experience in Python, R, SQL, C# and java, with a specialization in data science using Python and Python developer. I'm also a former mathematics and statistics tutor and assistant, so I have a strong background in teaching and working with students one-on-one. At HyperionDev, I'm excited to bring my skills and expertise to help students succeed in their bootcamp journey.
+Hi there! My name is Lebuso Tsilo and I'm a Dev with a passion for helping students learn and grow. I have extensive experience in Python, R, SQL and C#, with a specialization in data science using Python and Python developer. I'm also a former mathematics and statistics tutor and assistant, so I have a strong background in teaching and working with students one-on-one. At HyperionDev, I'm excited to bring my skills and expertise to help students succeed in their bootcamp journey.
 
 As a former tutor and assistant in mathematics and statistics, I have a lot of experience working with students. I understand how to communicate complex ideas in a way that is easy to understand, and I'm comfortable adapting my teaching style to meet the needs of each individual student.
 
