@@ -81,10 +81,10 @@ The numericToWords function also creates a few local variables `(words, cN, and 
 In the worst case, the input string has a length of m, so the overall worst-case space complexity of the solution is `O(m)`. This occurs when the input contains a very large number, such as a 309-digit number (the maximum length of a JavaScript number). However, since the input is stored as a string, the actual memory usage may be higher due to the internal representation of the string by the JavaScript engine.
 
 ## Reference
-- [GeekforGeeks](https://www.geeksforgeeks.org/convert-number-to-words/):Program to convert a given number to words
-- [GeekforGeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/):Analysis of Algorithms | Big-O analysis
-- [freecodecamp](https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/):JavaScript Split – How to Split a String into an Array in JS
-- [javascript.info](https://javascript.info/array-methods):Array methods
+- [GeekforGeeks](https://www.geeksforgeeks.org/convert-number-to-words/): Program to convert a given number to words
+- [GeekforGeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/): Analysis of Algorithms | Big-O analysis
+- [freecodecamp](https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/): JavaScript Split – How to Split a String into an Array in JS
+- [javascript.info](https://javascript.info/array-methods): Array methods
 
 
 
