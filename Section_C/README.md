@@ -27,7 +27,7 @@ git clone https://github.com/philiase/HyperionDev.git
 ~~~
 Navigate to the root directory of the repository:
 ~~~
-cd Section_c/
+cd Section_C/
 ~~~
 
 Install the necessary dependencies:
