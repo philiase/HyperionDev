@@ -53,11 +53,11 @@ This will run the test suite using the Jasmine testing framework and output the 
 ### Running the Solution
 To run the solution and generate the word representation of a number, run the following command in the root directory of the repository:
 ~~~
-node dist/index.js number
+node dist/solution.js number
 ~~~
 Replace `number` with the number you want to convert to words. For example:
 ~~~
-node dist/index.js 1234
+node dist/solution.js 1234
 ~~~
 this will output the following
 ~~~
