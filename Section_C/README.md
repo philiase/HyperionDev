@@ -46,7 +46,7 @@ This will compile the TypeScript code into JavaScript and output the resulting f
 ### Testing the Solution
 To run the test suite for the solution, run the following command in the root directory of the repository:
 ~~~
-npm test
+npm run test
 ~~~
 This will run the test suite using the Jasmine testing framework and output the results in the console.
 
