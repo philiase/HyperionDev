@@ -76,6 +76,7 @@ Python code should follow the conventions set out in the PEP8 style guide. These
 I Sent you the corrected code with comments on every line for more understanding
 There is another cool way of implementing the function using a `while loop` instead of a `for loop`.
 for interest sake allow me to explain
+
 **note:** i have have added the file to the code am about to show incase you want to go back
 
 ![While_loop](img/Alternative.png)
