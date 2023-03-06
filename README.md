@@ -1,4 +1,4 @@
-# HyperionDev Freelance Code Reviewer Take-Home Test
+# Freelance Code Reviewer Take-Home Test
 
 ### About
 The purpose of this repository is to showcase my skills as a developer by completing the tasks assigned in [The HyperionDev Freelance Code Reviewer Take-Home Test](https://github.com/hyperiondev-com/THT).
